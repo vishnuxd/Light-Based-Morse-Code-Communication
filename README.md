@@ -58,7 +58,7 @@ The system works completely offline and uses simple, low-cost components.
 | Arduino 5V           | 5V |
 | Arduino GND          | GND |
 
-![Circuit_Connection](Morse Code Sender and Decoder Using LI-FI/Circuit Diagram/Circuit_Diagram1.jpeg)
+![Circuit_Connection](Circuit_Diagram1.jpeg)
 ---
 
 ## ⚙️ Working Principle
@@ -96,11 +96,6 @@ The system works completely offline and uses simple, low-cost components.
 
 ---
 
-##  Project Structure
-
-
----
-
 ##  Notes
 
 - LDR threshold depends on room lighting.  
@@ -113,7 +108,6 @@ The system works completely offline and uses simple, low-cost components.
 
 ##  Output
 
-![Demo](Image\Image1.jpg)
 
 
 ---
