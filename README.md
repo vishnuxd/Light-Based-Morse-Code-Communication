@@ -58,7 +58,7 @@ The system works completely offline and uses simple, low-cost components.
 | Arduino 5V           | 5V |
 | Arduino GND          | GND |
 
-![Circuit_Connection](Circuit Diagram\Circuit_Diagram1.jpg)
+![Circuit_Connection](Morse Code Sender and Decoder Using LI-FI/Circuit Diagram/Circuit_Diagram1.jpeg)
 ---
 
 ## ⚙️ Working Principle
