@@ -58,7 +58,8 @@ The system works completely offline and uses simple, low-cost components.
 | Arduino 5V           | 5V |
 | Arduino GND          | GND |
 
-![Circuit_Connection](Circuit_Diagram1.jpeg)
+![Circuit_Diagram1](https://github.com/user-attachments/assets/d894b47f-c84c-419d-83de-1143782d5199)
+
 ---
 
 ## ⚙️ Working Principle
@@ -108,6 +109,7 @@ The system works completely offline and uses simple, low-cost components.
 
 ##  Output
 
+![Image1](https://github.com/user-attachments/assets/e40e488c-8611-4894-b0bd-3707ca758b7b)
 
 
 ---
